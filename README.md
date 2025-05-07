@@ -1,6 +1,6 @@
 <h1 align="center">Lmao kid🥵<br>
-</h1>
-* `A Bomber for termux & Linux ` * 
+
+## A Bomber for termux & Linux
 
 ## Disclaimer
 *This tool is for educational purposes only !*
