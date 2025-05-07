@@ -1,7 +1,6 @@
 <h1 align="center">Lmao kid🥵<br>
 </h1>
-<img src="smsbombv5.png" alt="Paris" class="center">
-* `A Bomber for termux & Linux `
+* `A Bomber for termux & Linux ` * 
 
 ## Disclaimer
 *This tool is for educational purposes only !*
@@ -76,7 +75,7 @@ python3 main.py
 
 
 ## Note
-* `This Bomb is mainly to prank Friends`
+* `This Bomber is mainly to prank Friends`
 
 ## Licence
 Apache 2.0
