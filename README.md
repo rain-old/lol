@@ -1,8 +1,7 @@
-<h1 align="center">Sms-Bombv5.0<br>
+<h1 align="center">Lmao kid🥵<br>
 </h1>
 <img src="smsbombv5.png" alt="Paris" class="center">
-* `📱 💀`<br />
-* `A Sms-Bomber for termux & Linux `
+* `A Bomber for termux & Linux `
 
 ## Disclaimer
 *This tool is for educational purposes only !*
@@ -54,7 +53,7 @@ pkg install git wget python -y
 ```
 Clone the repository
 ```bash
-git clone https://github.com/samay825/Sms-Bomb
+
 ```
 Go to the Sms-Bomb directory
 ```bash
@@ -70,29 +69,23 @@ python3 main.py
 ```
 
 
-## Version
-* `v5.0 Sms-Bomb`
-
 ## Features
 * `B#omb the number unlimited,Custom-sms`
 
 * `Free version speed is in goodflow`
 
-## Partners
-* `https://github.com/anubhavanonymous/XLR8_BOMBER`
-* `https://github.com/sw4pn33`
 
 ## Note
-* `This Sms-Bomb is mainly to prank Friends`
+* `This Bomb is mainly to prank Friends`
 
 ## Licence
-Apache 2.0 © Samay825
+Apache 2.0
 
 
 ## Contact Us
 * `If you have any feedback or queries`
-* `Instagram: @sincryptzork`
-* `Telegram: @sincryptzork`
+* `Discord: https://discord.gg/uM5t8jnTag`
+
 
 ## Telegram Channel
 
