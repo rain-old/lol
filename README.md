@@ -53,7 +53,7 @@ pkg install git wget python -y
 ```
 Clone the repository
 ```bash
-
+https://github.com/rain-old/lol.git
 ```
 Go to the Sms-Bomb directory
 ```bash
@@ -84,11 +84,11 @@ Apache 2.0
 
 ## Contact Us
 * `If you have any feedback or queries`
-* `Discord: https://discord.gg/uM5t8jnTag`
+* `Discord: @z6x4`
 
 
-## Telegram Channel
+## Discord server
 
-* `All updates of Team Sincryption will be posted here !`
-* `Link : https://t.me/TeamSincryption`
+* `All updates will be posted here !`
+* `Link : https://discord.gg/uM5t8jnTag`
 
