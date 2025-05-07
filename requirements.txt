@@ -1,0 +1,7 @@
+requests
+aiohttp
+pycryptodome
+pwinput
+tqdm
+wget
+progress
